@@ -1,0 +1,6 @@
+C:\ApiRestaurante\ApiRestaurante\ApiRestaurante\obj\Debug\netcoreapp3.1\ApiRestaurante.csproj.AssemblyReference.cache
+C:\ApiRestaurante\ApiRestaurante\ApiRestaurante\obj\Debug\netcoreapp3.1\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiRestaurante\ApiRestaurante\ApiRestaurante\obj\Debug\netcoreapp3.1\ApiRestaurante.AssemblyInfoInputs.cache
+C:\ApiRestaurante\ApiRestaurante\ApiRestaurante\obj\Debug\netcoreapp3.1\ApiRestaurante.AssemblyInfo.cs
+C:\ApiRestaurante\ApiRestaurante\ApiRestaurante\obj\Debug\netcoreapp3.1\ApiRestaurante.csproj.CoreCompileInputs.cache
+C:\ApiRestaurante\ApiRestaurante\ApiRestaurante\obj\Debug\netcoreapp3.1\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
